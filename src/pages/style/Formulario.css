@@ -1,0 +1,10 @@
+.formulario {
+    width: 50%;
+    height: 50%;
+    margin: 5% auto;
+    margin-top: 10px; 
+}
+
+form input[type='button']{
+    margin-right: 10px;
+}
